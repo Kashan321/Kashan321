@@ -32,14 +32,6 @@ const Kashan = {
 };
 ```
 
-🎯 **2025 Goals**:
-- 📱 Launch production-ready React Native apps with Firebase
-- 🧠 Learn and implement AI-powered features in mobile workflows
-- 🔥 Enhance mobile app UI/UX to stand out
-- 🌍 Collaborate with global tech teams and contribute to open-source
-
-🧩 **Fun Fact**: I love turning complex problems into elegant, high-performing apps—and I always add a little extra flair 😎.
-
 ---
 
 ### 🛠 Tech Stack
@@ -50,10 +42,10 @@ const Kashan = {
 ---
 
 ### 📊 GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=kashan321&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashan321&theme=radical&hide_border=true" alt="GitHub Streak" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashan321&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=kashan321&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kashan321&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashan321&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -64,11 +56,11 @@ const Kashan = {
 ---
 
 ### ✍️ Recent Blog Posts
-📚 I occasionally write on tech, development, and career growth. Explore my blogs on [Medium](https://medium.com/@kashanhaider3241):
+📚 I occasionally write on tech, development, and career growth. Explore my latest blogs on [Medium](https://medium.com/@kashanhaider3241):
 
-- [Integrating Firebase into React Native Apps](#)
-- [Essential Tools Every Developer Should Know](#)
-- [Building Scalable Backends with Node.js](#)
+- [Expo's New SDK 53: What's New & Why It Matters](https://medium.com/@kashanhaider3241/introducing-expo-sdk-53-whats-new-why-it-matters-bc18d2deeb95)
+- [How to Use Tailwind CSS with Expo or React Native](https://medium.com/@kashanhaider3241/how-to-use-tailwind-css-with-expo-or-react-native-06331088a01f)
+- [Easiest Way to Build APK using React Native EXPO: A Step-by-Step Guide](https://medium.com/@kashanhaider3241/easiest-way-to-build-apk-using-react-native-expo-a-step-by-step-guide-fb16f16e216c)
 
 ---
 
@@ -90,7 +82,13 @@ const Kashan = {
 
 ---
 
-### 🎯 2025 Goals (Interactive View)
-<p align="center">
-  <img src="https://readme-goals.vercel.app/api?username=kashan321&theme=radical" alt="Goals" />
-</p>
+### 🎯 2025 Goals
+- [ ] 📱 Launch production-ready React Native apps with Firebase
+- [ ] 🧠 Learn and implement AI-powered features in mobile workflows
+- [ ] 🔥 Enhance mobile app UI/UX to stand out
+- [ ] 🌍 Collaborate with global tech teams and contribute to open-source
+
+---
+
+### ⚡ Fun Fact
+I love turning complex problems into elegant, high-performing apps—and I always add a little extra flair 😎.
