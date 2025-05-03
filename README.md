@@ -1,105 +1,266 @@
-`<!-- Animated wave divider -->``<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />`## `<img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="30" />` Tech Stack
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-`<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,firebase,mongodb&perline=7" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nextjs,git,docker,vscode,tailwind,redux&perline=6" />
-</div>``<!-- Animated wave divider -->``<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />`## `<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />` GitHub Stats
+<!-- Tech Stack with animated header -->
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="30" />
+  Tech Stack
+  <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="30" />
+</h3>
 
-`<div align="center">
+<div align="center">
+  <!-- Frontend -->
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux" />
+
+  <!-- Backend -->
+  <h4>Backend</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
+
+  <!-- Tools -->
+  <h4>Tools & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,aws,vercel" />
+</div>
+
+<!-- Animated coding gif -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" />
+</div>
+
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- GitHub Stats with animated header -->
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+  GitHub Stats
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+</h3>
+
+<!-- GitHub contribution graph with animation -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashan321&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Activity Graph" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kashan321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=A8B1FF" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashan321&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%" alt="GitHub Streak" />
-</div>``<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashan321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=A8B1FF" width="50%" alt="Top Languages" />
-</div>``<div align="center">
-  <a href="https://github.com/kashan321?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=kashan321&theme=algolia&no-frame=true&no-bg=true&column=7" width="98%" alt="trophy" />
-  </a>
-</div>``<!-- Animated wave divider -->``<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />`## `<img src="https://user-images.githubusercontent.com/74038190/216125640-2783eef5-e63b-4a38-4718-4fb843a3fb12.png" width="30" />` Pinned Projects
+</div>
 
-`<div align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashan321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=A8B1FF" width="50%" alt="Top Languages" />
+</div>
+
+<div align="center">
   <a href="https://github.com/kashan321?tab=repositories">
+    <img src="https://github-profile-trophy.vercel.app/?username=kashan321&theme=algolia&no-frame=true&no-bg=true&column=7" width="98%" alt="Trophy" />
+  </a>
+</div>
+
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- Pinned Projects with animated header -->
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783eef5-e63b-4a38-4718-4fb843a3fb12.png" width="30" />
+  Pinned Projects
+  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783eef5-e63b-4a38-4718-4fb843a3fb12.png" width="30" />
+</h3>
+
+<div align="center">
+  <a href="https://github.com/kashan321/firebase-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kashan321&repo=firebase-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=A8B1FF" width="49%" />
+  </a>
+  <a href="https://github.com/kashan321/react-native-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kashan321&repo=react-native-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=A8B1FF" width="49%" />
   </a>
-</div>``<p align="center">
+</div>
+
+<!-- Project showcase with images -->
+<div align="center">
+  <h4>Featured Project: Mobile App UI Kit</h4>
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-1d8aef5c-52ce-4146-9ce0-d0a7e3e7d7de.gif" width="400" />
+</div>
+
+<p align="center">
   <a href="https://github.com/kashan321?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-%236366F1.svg?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
   </a>
-</p>``<!-- Animated wave divider -->``<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />`## `<img src="https://user-images.githubusercontent.com/74038190/216125640-2783eef5-e63b-4a38-4718-4fb843a3fb12.png" width="30" />` Recent Blog Posts
+</p>
 
-`<div align="center">
-  <a href="https://medium.com/@kashanhaider3241/introducing-expo-sdk-53-whats-new-why-it-matters-bc18d2deeb95" target="_blank">
-    <img src="https://img.shields.io/badge/Expo's%20New%20SDK%2053-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Expo's New SDK 53" />
-  </a>
-  <br />
-  <a href="https://medium.com/@kashanhaider3241/how-to-use-tailwind-css-with-expo-or-react-native-06331088a01f" target="_blank">
-    <img src="https://img.shields.io/badge/How%20to%20Use%20Tailwind%20CSS%20with%20Expo-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Tailwind CSS with Expo" />
-  </a>
-  <br />
-  <a href="https://medium.com/@kashanhaider3241/easiest-way-to-build-apk-using-react-native-expo-a-step-by-step-guide-fb16f16e216c" target="_blank">
-    <img src="https://img.shields.io/badge/Build%20APK%20with%20React%20Native%20EXPO-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Build APK with React Native EXPO" />
-  </a>
-</div>``<!-- Animated wave divider -->``<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />`## `<img src="https://user-images.githubusercontent.com/74038190/216125088-c7a7b598-01c0-45da-b708-c3707be8332f.png" width="30" />` Let's Connect
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-`<div align="center">
-  <a href="https://kashan-profile.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%236366F1.svg?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://pk.linkedin.com/in/mkashanhaider" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%236366F1.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/kashan321" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%236366F1.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/m_kashan_arar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%236366F1.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>``<!-- Animated wave divider -->``<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />`## `<img src="https://user-images.githubusercontent.com/74038190/216124356-9c7ee647-0068-41dc-a711-216e613825f5.png" width="30" />` 2025 Goals
+<!-- Recent Blog Posts with animated header -->
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783eef5-e63b-4a38-4718-4fb843a3fb12.png" width="30" />
+  Recent Blog Posts
+  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783eef5-e63b-4a38-4718-4fb843a3fb12.png" width="30" />
+</h3>
 
-`<div align="center">
+<div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-e757e876a16a" width="60" />
+        <a href="https://medium.com/@kashanhaider3241/introducing-expo-sdk-53-whats-new-why-it-matters-bc18d2deeb95" target="_blank">
+          <img src="https://img.shields.io/badge/Expo's%20New%20SDK%2053-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Expo's New SDK 53" />
+        </a>
       </td>
       <td>
-        📱 Launch production-ready React Native apps with Firebase
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="60" />
-      </td>
-      <td>
-        🧠 Learn and implement AI-powered features in mobile workflows
+        <img src="https://img.shields.io/badge/May%202023-6366F1?style=flat-square" alt="Date" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60" />
+        <a href="https://medium.com/@kashanhaider3241/how-to-use-tailwind-css-with-expo-or-react-native-06331088a01f" target="_blank">
+          <img src="https://img.shields.io/badge/How%20to%20Use%20Tailwind%20CSS%20with%20Expo-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Tailwind CSS with Expo" />
+        </a>
       </td>
       <td>
-        🔥 Enhance mobile app UI/UX to stand out
+        <img src="https://img.shields.io/badge/April%202023-6366F1?style=flat-square" alt="Date" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="60" />
+        <a href="https://medium.com/@kashanhaider3241/easiest-way-to-build-apk-using-react-native-expo-a-step-by-step-guide-fb16f16e216c" target="_blank">
+          <img src="https://img.shields.io/badge/Build%20APK%20with%20React%20Native%20EXPO-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Build APK with React Native EXPO" />
+        </a>
       </td>
       <td>
-        🌍 Collaborate with global tech teams and contribute to open-source
+        <img src="https://img.shields.io/badge/March%202023-6366F1?style=flat-square" alt="Date" />
       </td>
     </tr>
   </table>
-</div>``<!-- Animated wave divider -->``<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />`## `<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" />` Fun Fact
-
-`<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="400" />
-  <p>I love turning complex problems into elegant, high-performing apps—and I always add a little extra flair 😎.</p>
-</div>``<!-- Profile views counter -->``<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kashan321&style=for-the-badge&color=6366F1" alt="Profile Views" />
-</div>``<!-- Footer -->``<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
 </div>
-````
+
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- Visitors with animated counter -->
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="25" />
+  Visitors
+  <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="25" />
+</h3>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kashan321/count.svg" alt="Visitor Count" />
+</div>
+
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- Let's Connect with animated header -->
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216125088-c7a7b598-01c0-45da-b708-c3707be8332f.png" width="30" />
+  Let's Connect
+  <img src="https://user-images.githubusercontent.com/74038190/216125088-c7a7b598-01c0-45da-b708-c3707be8332f.png" width="30" />
+</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kashanhaider/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kashanhaider3241@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/kashanhaider" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/m_kashan_arar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<!-- Animated coding gif -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
+</div>
+
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- Work Experience with animated timeline -->
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-4bf3-4d0a-aa31-a720b698b1da.gif" width="30" />
+  Work Experience
+  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-4bf3-4d0a-aa31-a720b698b1da.gif" width="30" />
+</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/2022--Present-6366F1?style=flat-square" alt="Date" />
+      </td>
+      <td>
+        <b>Senior Mobile Developer</b> at TechInnovate
+        <br />
+        <i>Leading React Native development for cross-platform applications</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/2020--2022-6366F1?style=flat-square" alt="Date" />
+      </td>
+      <td>
+        <b>Full Stack Developer</b> at WebSolutions Inc.
+        <br />
+        <i>Developed web and mobile applications using React, Node.js, and MongoDB</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/2018--2020-6366F1?style=flat-square" alt="Date" />
+      </td>
+      <td>
+        <b>Frontend Developer</b> at CreativeTech
+        <br />
+        <i>Created responsive web interfaces using React and modern CSS frameworks</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- Support Me section -->
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c0e61f6ea324.gif" width="30" />
+  Support My Work
+  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c0e61f6ea324.gif" width="30" />
+</h3>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/kashanhaider" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://github.com/sponsors/kashan321" target="_blank">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors" />
+  </a>
+</div>
+
+<!-- Footer with animated wave -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</div>
+
+<!-- Mobile responsiveness -->
+<style>
+@media (max-width: 768px) {
+  img[width="49%"] {
+    width: 100% !important;
+    margin-bottom: 10px;
+  }
+
+  table {
+    width: 100% !important;
+  }
+
+  .github-stats img {
+    width: 100% !important;
+    margin-bottom: 10px;
+  }
+}
+</style>
